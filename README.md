@@ -31,20 +31,22 @@ http://116.62.65.154/    1M小水管，加载时间较久
 
 #### 首页
 
-![image-20210110220345810](C:\Users\张婧\AppData\Roaming\Typora\typora-user-images\image-20210110220345810.png)
+![image-20210110220345810](https://github.com/iu159/fans/blob/main/resources/index.png)
 
 #### 登陆
 
-![image-20210110220623076](C:\Users\张婧\AppData\Roaming\Typora\typora-user-images\image-20210110220623076.png)
+![image-20210110220623076](https://github.com/iu159/fans/blob/main/resources/login.png)
 
-#### 个人首页![image-20210110220707783](C:\Users\张婧\AppData\Roaming\Typora\typora-user-images\image-20210110220707783.png)
+#### 个人首页
+
+![image-20210110220707783](https://github.com/iu159/fans/blob/main/resources/home.png)
 
 #### 热门
 
-![image-20210110220805317](C:\Users\张婧\AppData\Roaming\Typora\typora-user-images\image-20210110220805317.png)
+![image-20210110220805317](https://github.com/iu159/fans/blob/main/resources/picture.png)
 
 #### 上传
 
-![image-20210110220956406](C:\Users\张婧\AppData\Roaming\Typora\typora-user-images\image-20210110220956406.png)
+![image-20210110220956406](https://github.com/iu159/fans/blob/main/resources/upload.png)
 
 **欢迎fork，喜欢的话，给个star呗!**
