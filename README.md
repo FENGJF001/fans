@@ -8,7 +8,7 @@ http://116.62.65.154/    1M小水管，加载时间较久
 
 ## 项目介绍
 
-​          FANS是一个较为完整的前后端分离项目，引用了邮件注册，ES搜索，通知，评论等功能，其中图片是响应式的，刚好铺满整个页面，为此下了较大的功夫。
+​          FANS是一个较为完整的前后端分离项目，实现了图片的发布，排版，评论，邮件注册，搜索，通知等功能，其中图片是响应式的，刚好铺满整个页面，为此下了较大的功夫。
 
 ## 后端架构
 
@@ -27,26 +27,32 @@ http://116.62.65.154/    1M小水管，加载时间较久
 - 网络：  Axios
 - UI框架：  Bootstrap、 ElementUI
 
+## 感谢
+
+##### [Halo](https://github.com/halo-dev)
+
+###### [Vue Now UI KIT](https://www.creative-tim.com/product/vue-now-ui-kit)
+
 ## 常用页面
 
 #### 首页
 
-![image-20210110220345810](https://github.com/iu159/fans/blob/main/resources/index.png)
+![index](https://github.com/iu159/fans/blob/main/resources/index.jpg)
 
 #### 登陆
 
-![image-20210110220623076](https://github.com/iu159/fans/blob/main/resources/login.png)
+![login](https://github.com/iu159/fans/blob/main/resources/login.jpg)
 
 #### 个人首页
 
-![image-20210110220707783](https://github.com/iu159/fans/blob/main/resources/home.png)
+![home](https://github.com/iu159/fans/blob/main/resources/home.jpg)
 
 #### 热门
 
-![image-20210110220805317](https://github.com/iu159/fans/blob/main/resources/picture.png)
+![picture](https://github.com/iu159/fans/blob/main/resources/picture.jpg)
 
 #### 上传
 
-![image-20210110220956406](https://github.com/iu159/fans/blob/main/resources/upload.png)
+![upload](https://github.com/iu159/fans/blob/main/resources/upload.jpg)
 
 **欢迎fork，喜欢的话，给个star呗!**
